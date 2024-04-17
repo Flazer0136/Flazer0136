@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Flazer0136
 - 👀 I’m interested in computers, video games and anime
 - 🌱 I’m currently learning programming from Red Deer Poytechnic and loosely following CS50
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me at my discord @flazer0136
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
