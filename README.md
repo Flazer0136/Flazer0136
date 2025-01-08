@@ -9,3 +9,4 @@
 Flazer0136/Flazer0136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![status](https://api.statusbadges.me/badge/status/472044256954155019?simple=true)
